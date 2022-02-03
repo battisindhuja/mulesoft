@@ -4,3 +4,4 @@ location: hyd
 phone no: 2334343
 I am working in IT, learning mulesoft
 my father name is selva kumar
+my mother name is laxmi
